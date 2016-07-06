@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FFMpeg_transcoder", "FFMpeg_transcoder\FFMpeg_transcoder.vcxproj", "{F5277570-357F-4C1D-B49C-15051BD62AA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5277570-357F-4C1D-B49C-15051BD62AA7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F5277570-357F-4C1D-B49C-15051BD62AA7}.Debug|Win32.Build.0 = Debug|Win32
+		{F5277570-357F-4C1D-B49C-15051BD62AA7}.Release|Win32.ActiveCfg = Release|Win32
+		{F5277570-357F-4C1D-B49C-15051BD62AA7}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
